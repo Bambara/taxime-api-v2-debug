@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "astral-robot-297917",
+  "private_key_id": "3a9bc2aedd56795279331940018bef9a5f56ca37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDRGNwY/C4xiAlM\nM3xGDYhEWBqmfgCGh8YF3JSoat1u7zLVN3kaUcBFaFhiiyjYinjegLQf4nBGbFXc\nVYxJ7oFg5NKsoF39WZY/7Jk7hKkHWC9+n8h6uo2sKsvXbGycgLTvXk/0ezt/6qJ3\nmu3LxV6kZBrOXEDxsxlO34UTqmWD3fMMMAUSR/IvyMhkhMvm3qxLBhwLb8RX4pVV\ntk3lxpRe3gVAS0npDh+RNDL1/8KOHvgMkKbDEX5/dLodJaZZlMsqeJbPqEYkcBiN\nIf69cAcbGHHmFZZ0Gmc6C5i6Wvn422QUeaiCiRRyQCXqWw2aVEnQ9mTJ1kmmCGi5\n9ojZLwYvAgMBAAECggEAZmRKj2+aPUYU63xAzFsfEfyk3EfSgQ5msYMhRtHB6mt2\n1INMKc/DnBlrQqJLl7JDWw3iZsSvX0T4zKMVxjRlpamX4tHLBN/EXDxDkyo0zXRp\nGZQsC7Fj4923ISAmlYLPV3IzLBDWg57F/VTgQos9e7nLiKcTZGhkKcP5+jXUbTw1\niu8FFAOHQXHKLXwiZZ6zRL2BZ+VMoI6kzm3dQQJXr3Tvq29pr5mZ5HPp2AAU24wv\nChQkW05Khc4YGVVYNBR+h9wRWdzr1zHPEInhjrYDZ8/iV1ut3B7fSqZoTzaleb0n\nfHBeBKMjCCIP3tfhakWTIoUeFqU6W+BcHwuYKJdvoQKBgQDn7Jy4xBInPmhGpbKk\nbkXkp0LrpIYy4J2UpbWRCXJNYuxQuRXJpQQhqBQiuiurPQS2cIr/VhCSU7PLHmde\nAmIXGfEnR5jJFQMlIiA9CXD6keXrdDvVZ0EEAmm+aMoWYmQ4Gs5H6CB/Wn97DYL3\nfbB9ceatcY1pgV1H3fSBEUm+jwKBgQDmzZ2k4ZZW6hwQTZkDJmja8seknWe8P1Q+\nZH7rZi6UqEDLqY2U2qpTDlvyq/4rqz/pJqv+Ywf/3HlQOP3Ka9QvB8DthA/XhJHc\nsWJE1tzpJMTz4u11mxqm0FE558SlWTzKbbH6hrRJRRGhHp2vZD60C34xJYx9+F3l\nR8dXqA4OYQKBgQChnkugnlIgMucrxDB3Ubk3HDAQUjiKn+hwPAIJLlIPB46yuigq\nuunkImLVyHLCA+WS1V6njOxDbDzwoSFba8G7Y4Kf4s7f4dqtN9jLcBbhJmbY68j+\nb9Po3V2fKRsa+jnotxVlGqf616/aqpHHsjkZUhR0bZskGNhOSqgmgUuolQKBgAZg\nujF7Nl9SetIMguTuY8lhGhk3bE1sZpSOzF8O5Myg1aGLHul1HW3MIMhU7mIgilSU\nB/6wl+D/I68O1ByK3EMscK1fj9yBwlIZ6MBEO7iJlpOyuqMcVSE08nmqKOn0zFQ/\nscJdhI/dw73zDaJyH7Vz99m90uMMQPP8BssqTrEhAoGAIuwA6e7YMLk2MoLyslBE\n9hsST7aanF3sjoWIBIgj5TOvUIzOO7CdDHIq0iJ44VG/eULv/doT9WwNbVKpFomr\nsoksPAe8Lzm2Gix1NMrFL1JsyY6tyF3Utf2VQZEvgBIDEFvMT+iTPAy7vuYppoKA\nDmQAQEaYtua2gOUATJxxr5g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "taxime-dev-images@astral-robot-297917.iam.gserviceaccount.com",
+  "client_id": "100425313836829212108",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/taxime-dev-images%40astral-robot-297917.iam.gserviceaccount.com"
+}
